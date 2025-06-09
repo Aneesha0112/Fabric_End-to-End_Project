@@ -5,7 +5,7 @@ This project demonstrates a complete **Data Engineering pipeline** using **Micro
 
 ### 👩‍💻 Author
 **Aneesha Patan Arifulla**  
-[LinkedIn](linkedin.com/in/aneesha-patan) | [GitHub](https://github.com/Aneesha0112/)
+[LinkedIn](https://www.linkedin.com/in/aneesha-patan) | [GitHub](https://github.com/Aneesha0112/)
 
 ---
 
