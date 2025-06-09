@@ -48,8 +48,8 @@ This project demonstrates a complete **Data Engineering pipeline** using **Micro
 
 - 🔗 [Cleaned Data Notebook](https://github.com/Aneesha0112/Fabric_End-to-End_Project/blob/main/Bing_Process_Data.ipynb)  
 - 🔗 [Sentiment Analysis Notebook](https://github.com/Aneesha0112/Fabric_End-to-End_Project/blob/main/Sentiment_Analysis.ipynb)  
-- 📊 [Power BI Report](https://github.com/SuparnaBabu7/Fabric_Projects/blob/main/Bing%20News/bing-news-report.pbix)  
-- 🗂️ [Complete Project Folder](https://github.com/SuparnaBabu7/Fabric_Projects/tree/main/Bing%20News)
+- 📊 [Power BI Report](https://github.com/Aneesha0112/Fabric_End-to-End_Project/blob/main/Bing_News_Report.pdf)  
+- 🗂️ [Complete Project Folder](https://github.com/Aneesha0112/Fabric_End-to-End_Project/tree/main)
 
 ---
 
