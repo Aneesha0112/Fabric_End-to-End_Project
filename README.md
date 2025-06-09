@@ -1,7 +1,7 @@
 
 # 📊 Microsoft Fabric End-to-End Data Engineering Project
 
-This project demonstrates a complete **Data Engineering pipeline** using **Microsoft Fabric**, integrating **Bing News API**, **Dataflow Gen2**, **Lakehouse**, **PySpark Notebooks**, **Sentiment Analysis**, and **Power BI** reporting, along with **Data Activator alerts** for real-time notifications.
+This project demonstrates a complete **Data Engineering pipeline** using **Microsoft Fabric**, integrating **Bing News API**, **Lakehouse**, **PySpark Notebooks**, **Sentiment Analysis**, and **Power BI** reporting, along with **Data Activator alerts** for real-time notifications.
 
 ### 👩‍💻 Author
 **Aneesha Patan Arifulla**  
