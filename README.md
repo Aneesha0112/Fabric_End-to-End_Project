@@ -29,7 +29,7 @@ This project demonstrates a complete **Data Engineering pipeline** using **Micro
 ### 5. **Semantic Model & Power BI Report**
 - Created a Semantic Model directly from the Lakehouse.
 - Auto-generated and customized Power BI reports.
-- [Power BI Report (.pbix)]()
+- [Power BI Report (.pbix)](https://github.com/Aneesha0112/Fabric_End-to-End_Project/blob/main/Bing_News_Report.pdf)
 
 ### 6. **Automation with Pipelines**
 - Built multiple pipelines to orchestrate ingestion → transformation → ML → reporting.
